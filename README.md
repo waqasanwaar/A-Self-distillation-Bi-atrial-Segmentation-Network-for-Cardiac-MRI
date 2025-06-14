@@ -20,7 +20,7 @@ To cite our papern please use this bibtex.
   author={Anwaar, Waqas and Van, Manh The and Hu, Jiongtong and Chen, Zhurong and Xue, Wufeng and Ni, Dong},
   booktitle={International Workshop on Statistical Atlases and Computational Models of the Heart},
   pages={280--288},
-  year={2024},
+  year={2025},
   organization={Springer}
 }
 ```
