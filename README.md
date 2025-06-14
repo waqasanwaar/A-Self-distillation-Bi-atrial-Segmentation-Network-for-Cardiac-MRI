@@ -12,7 +12,7 @@ Poster presentation at MICCAI 2024
 
 ## Reference
 
-To cite our papern please use this bibtex.
+To cite our paper/work please use this bibtex.
 
 ```http
 @inproceedings{anwaar2024self,
