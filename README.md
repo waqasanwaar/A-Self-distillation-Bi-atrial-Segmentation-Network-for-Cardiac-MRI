@@ -1,0 +1,1 @@
+# A-Self-distillation-Bi-atrial-Segmentation-Network-for-Cardiac-MRI
